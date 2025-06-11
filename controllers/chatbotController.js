@@ -1,4 +1,4 @@
-const chatbotService = require("../services/chatBotService");
+const chatbotService = require("../services/chatbotService");
 
 exports.chat = async (req, res) => {
   try {
